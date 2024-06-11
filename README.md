@@ -29,6 +29,10 @@ ingest(r"data\reddit\most_influential_books_you_ever_read.json", source='reddit'
 ## Step 04 : Query
 Run ```app.py```
 
+## Example
+<img src="/examples/example (2).gif">
+<img src="/examples/example (1).gif">
+
 
 
 
